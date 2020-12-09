@@ -47,7 +47,6 @@ def test_bench():
 simulate(test_bench())
 
 # View the results of the simulation.
-show_waveforms()
 show_text_table()
 
 @chunk
